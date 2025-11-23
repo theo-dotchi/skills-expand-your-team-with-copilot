@@ -311,12 +311,6 @@ section h3 {
   color: white;
 }
 
-.participants-list {
-  margin-top: 8px;
-  padding-top: 8px;
-  border-top: 1px solid var(--border-light);
-}
-
 .participants-list h5 {
   color: var(--primary);
   margin-bottom: 5px;
