@@ -1,6 +1,6 @@
 name: "Copilot Setup Steps"
 
-on: workflow_dispatch
+on: workflow_dispatch 
 jobs:
   # This is the required job name. If different, Copilot will ignore it.
   copilot-setup-steps:
